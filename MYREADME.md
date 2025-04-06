@@ -99,5 +99,8 @@ A full-stack web application built with **React + TypeScript** on the frontend a
 
 
 ---
+## 🖥️ Screenshots
 
+![Student Registration Form](image/d)
+![Student Registration Form](image/dis2.png)
 > 🚀 This project is a great demonstration of full-stack development skills using modern JavaScript technologies. Perfect for showcasing CRUD operations, REST API handling, and dynamic UI interactions in a real-world use case.
